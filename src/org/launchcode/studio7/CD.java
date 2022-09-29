@@ -1,6 +1,6 @@
 package org.launchcode.studio7;
 
-public class CD {
+public class CD extends OpticalDisk implements Reflectable, Spinnable, Laserable{
 
     // TODO: Implement your custom interface.
 
